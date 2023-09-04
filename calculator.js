@@ -1,5 +1,3 @@
-
-
 let btns = document.querySelectorAll(".num-button");
 let allBtns = document.querySelectorAll(".button");
 let resultBox = document.querySelector("#result-box");
